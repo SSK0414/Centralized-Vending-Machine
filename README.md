@@ -30,5 +30,5 @@ This project implements a centralized vending machine management system in C. It
    ./vending_machine
 
 
-###Structure
+### Structure
 - `main.c`: Implements a centralized vending machine management system in C.
