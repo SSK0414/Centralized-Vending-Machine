@@ -32,3 +32,10 @@ This project implements a centralized vending machine management system in C. It
 
 ### Structure
 - `main.c`: Implements a centralized vending machine management system in C.
+
+### License
+This project is licensed under the MIT License.
+
+### Contributing
+Contributions are welcome! Please open an issue or create a pull request with your suggestions or improvements.
+
